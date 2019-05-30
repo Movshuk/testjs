@@ -35,3 +35,26 @@ console.log(5%2);
 
 let num = 50;
 (num == 50) ? console.log("true") : console.log("false");
+
+
+// 
+for (var x = 0; x < 10; x++) {
+  console.log(x);
+}
+console.log("end > " + x);
+
+//
+
+function foo(x, y){
+  console.log(x + y);
+}
+
+foo(5,2);
+
+let z = function(a, b){
+  return a + b;
+}
+
+console.log(z(1, 1));
+
+
