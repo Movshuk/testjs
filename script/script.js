@@ -29,3 +29,6 @@ console.log(answer);
 console.log(typeof(answer));
 
 console.log("2" === 2);
+
+// ADD
+console.log(5%2);
