@@ -32,3 +32,6 @@ console.log("2" === 2);
 
 // ADD
 console.log(5%2);
+
+let num = 50;
+(num == 50) ? console.log("true") : console.log("false");
